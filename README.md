@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign">
+  <a [Repository](href="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign")>
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
   </a>
 
