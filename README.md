@@ -90,6 +90,75 @@ Then it were created different column in order to have more information that whe
 - Total purchase by a customer
 - Number of childrens
 - Campaign Acceptance
+After that, we check the new variables for outliers or missing values and it were drop or replace when it was needed, this will allow us
+to have a complet dataset in order to work with it and make the needed plots to make out analysis.
+
+To understand the rate of acceptance of the campaign these plots were made:
+
+1.- Swarm Plot Number of Campaing Accepted vs Income:
+
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/Plot.JPG?raw=true" alt="Data" width=620 height=650> 
+</p>
+<br>
+
+2.- Line plot of the Porcentage of each campaign acceptance for client with high and low income
+
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/plot2.JPG?raw=true" alt="Data" width=620 height=650> 
+</p>
+<br>
+
+3.- Rate of acceptance for each campaign based on Education of clients.
+
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/plot3.JPG?raw=true" alt="Data" width=620 height=650> 
+</p>
+<br>
+
+4.- Rate of acceptance for each campaign based on Marital Status of clients.
+
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/plot4.JPG?raw=true" alt="Data" width=620 height=650> 
+</p>
+<br>
+5.- Rate of acceptance for each campaign based on Number of childrens of clients
+
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/plot7.JPG?raw=true" alt="Data" width=620 height=650> 
+</p>
+<br>
+6.- Percentage of purchases for every available channel by income
+
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/plot5.JPG?raw=true" alt="Data" width=620 height=650> 
+</p>
+<br>
+
+
+
+It were also made plots for rate of acceptance based on the amount of product spend, different channels and heat maps for Country,Education and Marital Status
+but because of the space occupied by all of these plots, it needed to keep them in the code. 
+
+At the end it was identify a certain profile of client that accept the campaing, the profile had these characteristics:
+- Have a high income
+- Buy more wine
+- Does not have childs
+
+Then it was plotted the acceptance of these profile vs the overall acceptance:
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/plot6.JPG?raw=true" alt="Data" width=620 height=650> 
+</p>
+<br>
+
+With this information it was made the conclusion and the recommendations.
 
 
 ## Conclusions
