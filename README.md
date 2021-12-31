@@ -56,7 +56,7 @@ have 2240 entries.
 Then we obtained the summary statistics:
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/statistics.JPG?raw=true" alt="Data" width=600 height=650> 
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/statistics.JPG?raw=true" alt="Data" width=620 height=650> 
 </p>
 <br>
 From the statistics we can conclude:
