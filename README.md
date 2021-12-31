@@ -49,6 +49,30 @@ First it is needed to understand the dataset, so this summary was presented:
 <p align="center">
     <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/data.JPG?raw=true" alt="Data" width=600 height=650> 
 </p>
+<br>
+Here we can notice that most of the columns are numeric and also that there are no missing values except from income column, since the dataset 
+have 2240 entries.
+
+Then we obtained the summary statistics:
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/statistics.JPG?raw=true" alt="Data" width=600 height=650> 
+</p>
+<br>
+From the statistics we can conclude:
+
+- Most of the clients were born before 1977 with an average born on 1968
+- The minimum value on Year_Birth should be wrong because a client can't be born on 1893, so we need to check the outliers of this variable.
+- Income have missing values and on average a client has an 52k income but 25% earn less than 35k
+- Half or more of the clients last purchase was more than one month ago
+- On average clients spend more money on wine (303 USD) than any other product
+- Fruit (26.3 USD) followed by Sweets(27 USD) are the products in which clients spend less money.
+- On average the purchases made with discount are low (2.6) this is because 75% of clients are from 0 to 3 purchases with discount
+- Store purchases still are the most used to buy our products although web purchases are close to store in sales and have a higher maximum with 27 compared to 13 of store.
+- Catalog purchases are the least used for our product and most of our clients used them between 0-4 times.
+- There is less than one children on average on customer housholds and almost 75% have no one and 25% have at most 2 children
+- The same pattern is repeated with teenagers on average there are more than children but on average customers does not have teenager on their household and only 25% of customer have at most 2 and 75% does not have a single.
+
 
 ## Conclusions
 
