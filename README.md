@@ -16,6 +16,7 @@
 - [Status](#status)
 - [Analysis](#analysis)
 - [Conclusions](#conclusions)
+- [Recomendations](#recomendations)
 
 ## Context
 
@@ -51,9 +52,29 @@ Editor preferences are available in the [editor config](https://reponame/blob/ma
 
 ## Conclusions
 
-**Creator 1**
+- The clients who accepted more the campaigns are the one who bought more wine, who doesn't have children and have higher income.
+- Clients age is between 1960 and 1980
+- Last Campaign was the worst campaign of all
+- Second Campaign was the best one
+- People with lower income use more deals purchases.
+- When the income is higher the clients accept more the campaigns.
+- Very high income clients buy with catalog and are less likely to use deals
+- Store sales are have the higher number of purchases because it is highly used by everyone
+- People with PhD and Master buy a lot of meat and wine.
+- Countries spends half of their spending on wine
+- People with basic education buy more the othe products.
+- Store purchases accepted more campaigns than other channels.
 
-- <https://github.com/usernamecreator1>
+## Recomendations
 
+- Company needs to avoid or improve strategies used in last campaign and use the ones they used on the second one.
+- Even that the clients with more income, accepted more the campaigns, it is needed to focus on the medium income based on the distribution of the income which have a median 40k and the values are well distributed around this value.
+- It is needed to focus on clients who buy wine and have no children.
+- It is a good idea to make a campaign focused on meat and wine products with PhD and Master clients
+- It is needed to focus on people with PhD since they are the ones who accept the campain and also buy more wine
+- Catalog campaign should be focused on high income clients in order to increase the number of them.
+- Campaign 2 had a high value of acceptance with clients with no children, so it will be correct to replicate this.
+- Store campaigns can be focused uniformly
+- Last campaign didnt affect the acceptance of the one who bought wine so it is needed to focus on the othe products.
 
 
