@@ -44,11 +44,11 @@ campaigns based on the EDA Analysis and the plots and summaries obtained.
 
 ## Analysis
 
-Please read through our [contributing guidelines](https://reponame/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
-
-Moreover, all HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+First it is needed to understand the dataset, so this summary was presented:
+<br>
+<p align="center">
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/data.JPG?raw=true" alt="Data" width=72 height=72> 
+</p>
 
 ## Conclusions
 
