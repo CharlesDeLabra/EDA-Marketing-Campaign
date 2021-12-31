@@ -47,7 +47,7 @@ campaigns based on the EDA Analysis and the plots and summaries obtained.
 First it is needed to understand the dataset, so this summary was presented:
 <br>
 <p align="center">
-    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/data.JPG?raw=true" alt="Data" width=720 height=720> 
+    <img src="https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Images/data.JPG?raw=true" alt="Data" width=600 height=650> 
 </p>
 
 ## Conclusions
