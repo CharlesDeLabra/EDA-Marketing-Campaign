@@ -35,7 +35,6 @@ The data set marketing_data.csv consists of 2,240 customers of All You Need comp
 - Channel performances
 - Customer profiles based on the spending habits
 
-```
 ## Code
 
 The program was written on Jupyter Notebooks in Python Language. You can access to the code [here](https://github.com/CharlesDeLabra/EDA-Marketing-Campaign/blob/main/Learner_Notebook_Project_Marketing_Campaign_Analysis.ipynb)
