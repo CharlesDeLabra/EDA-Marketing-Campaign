@@ -73,6 +73,24 @@ From the statistics we can conclude:
 - There is less than one children on average on customer housholds and almost 75% have no one and 25% have at most 2 children
 - The same pattern is repeated with teenagers on average there are more than children but on average customers does not have teenager on their household and only 25% of customer have at most 2 and 75% does not have a single.
 
+From the categorical variable we can conclude that:
+
+- 50% of clients are on graduation followed by PhD and Master degrees
+- Most of clients are married or have a partner
+- Except from second campaign (85%), all of the campaigns have at least 92% of no acceptance
+- Most of the clients are from Spain (48%) and less from Mexico (0.13%)
+
+Since the result were to large to present here, it is needed to go to the code part in order to see the implementation of this part.
+
+In order to continue we need to replace some similar categories in some variables, for example in the Marital Status variable it was replaced Alone with
+Single, since both of them mean the same.
+
+Then it were created different column in order to have more information that where implicit in the data. The columns that were created were:
+- Total spending by a customer
+- Total purchase by a customer
+- Number of childrens
+- Campaign Acceptance
+
 
 ## Conclusions
 
