@@ -10,15 +10,12 @@
 
 ## Table of contents
 
-- [Context](#Context)
-- [Problem Statement](#Problem-Statement)
-- [Code](#Code)
+- [Context](#context)
+- [Problem Statement](#problem-statement)
+- [Code](#code)
 - [Status](#status)
-- [Contributing](#contributing)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
-
+- [Analysis](#analysis)
+- [Conclusions](#conclusions)
 
 ## Context
 
